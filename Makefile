@@ -16,8 +16,6 @@ help:
 	@echo "  livehtml   to make HTML documentation files (live reload!)"
 	@echo "  install    to install the python dependencies for development"
 	@echo "  test       to run the tests"
-	@echo "  isort      to sort imports"
-	@echo "  blacken    to format the code"
 	@echo "  bandit     to run some simple security checkers"
 .PHONY: help
 
